@@ -7,4 +7,5 @@ def key_for_min_value(name_hash)
       puts name_hash[k][0]
     end
   end
+  name_hash[k]
 end

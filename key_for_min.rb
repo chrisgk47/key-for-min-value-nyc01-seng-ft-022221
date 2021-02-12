@@ -8,8 +8,6 @@ def key_for_min_value(name_hash)
     name_hash = {}
     if name_hash != {} || name_hash[index] < name_hash[index]
       name_hash = name_hash[index]
-    else
-      nil
     end
   end
   name_hash

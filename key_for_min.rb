@@ -8,4 +8,5 @@ def key_for_min_value(name_hash)
       new_hash << name_hash[index][0]
     end
     new_hash
+  end
 end

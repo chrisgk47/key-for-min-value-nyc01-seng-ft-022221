@@ -7,5 +7,6 @@ def key_for_min_value(name_hash)
     if lowest_number == nil || name_hash[index] < lowest_number
       puts lowest_number = name_hash[index]
     end
+    lowest_number
   end
 end
